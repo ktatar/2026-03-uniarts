@@ -5,7 +5,7 @@ math: katex
 paginate: true
 ---
 
-<!-- footer: <small><i>AI in Computational Arts, Music, and Games </small></i> <p> ![width:350](chalmers-gu.png)</p> -->
+<!-- footer: <small><i>Kıvanç Tatar</small></i> <p> ![width:350](chalmers-gu.png)</p> -->
 
 # Cool title with a Background
 
