@@ -46,6 +46,15 @@ Focuses on technical innovations in sound synthesis and modeling using deep lear
 
 ---
 
+### Deep Learning and Audio Technologies
+
+- **Latent Timbre Synthesis**
+- RawAudio Variational Autoencoder
+- Raw Music from Free Movements
+- Reinforcement Learning for Musical Performances with Moving Machine
+
+---
+
 #### Latent Timbre Synthesis
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZJm-N_-ySe0?si=WDxjA7frj4Jj3COq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -85,6 +94,24 @@ Notes on Reproducibility
 #### Latent Timbre Synthesis
 
 Interpolations in the latent space of the VAE
+
+![align-left width:550](img/inter_latent_space_scatter.png)
+
+![align-right width:550](img/full_latent_space_scatter.png)
+
+
+---
+
+### Deep Learning and Audio Technologies
+
+- Latent Timbre Synthesis
+- **RawAudio Variational Autoencoder**
+- Raw Music from Free Movements
+- Reinforcement Learning for Musical Performances with Moving Machine
+
+---
+
+#### RawAudio Variational Autoencoder
 
 
 
