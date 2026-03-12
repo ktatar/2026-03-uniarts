@@ -73,6 +73,14 @@ Notes on Reproducibility
 ![bg right width:600](img/run_logs.png)
 
 ---
+
+#### Latent Timbre Synthesis
+
+Notes on Reproducibility
+
+![align-left width:1200](img/interpolations_small.png)
+
+---
 ## This is a table 
 
 | Activities  |  |  | | |
