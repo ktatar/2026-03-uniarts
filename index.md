@@ -17,13 +17,27 @@ paginate: true
 https://ktatar.github.io/2026-03-docent-lecture/ </small>
 
 ---
-## What is TRA 385?
 
-This is a list:
 
-- item 1
-- item 2
-- item 3
+
+---
+
+## Research Themes
+
+- Deep Learning and Audio Technologies
+- AI andin Sound and Music Interactions
+- AI in Computational Creativity and Game Design
+- Societal Impact of AI in Culture, Arts, and Music
+
+---
+
+### Deep Learning and Audio Technologies
+
+Focuses on technical innovations in sound synthesis and modeling using deep learning:
+- Variational Autoencoders (VAEs)
+- Neural Fourier operators for timbre and acoustics.
+- Real-time audio generation from raw data.
+- Applications in musical acoustics and sound design.
 
 ---
 
