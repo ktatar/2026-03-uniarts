@@ -60,6 +60,12 @@ Focuses on technical innovations in sound synthesis and modeling using deep lear
 
 #### Latent Timbre Synthesis
 
+![bg right width:400](img/timbre_vae.png)
+
+---
+
+#### Latent Timbre Synthesis
+
 Notes on Reproducibility
 
 ![bg right width:600](img/run_logs.png)
