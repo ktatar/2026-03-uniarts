@@ -56,9 +56,11 @@ Focuses on technical innovations in sound synthesis and modeling using deep lear
 
 ![align-center width:700](https://camo.githubusercontent.com/3fd7f5186b4aab037b57b340eddde353badf52b196389622f70db93117438264/68747470733a2f2f6769746c61622e636f6d2f6b74617461722f6c6174656e742d74696d6272652d73796e7468657369732f2d2f7261772f737461626c652f696d616765732f696e746572706f6c6174655f74776f5f75692e6a7067)
 
-
 ---
 
+
+
+---
 ## This is a table 
 
 | Activities  |  |  | | |
