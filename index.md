@@ -81,6 +81,14 @@ Notes on Reproducibility
 ![align-left width:1200](img/interpolations_small.png)
 
 ---
+
+#### Latent Timbre Synthesis
+
+Interpolations in the latent space of the VAE
+
+
+
+---
 ## This is a table 
 
 | Activities  |  |  | | |
