@@ -240,6 +240,15 @@ When the AI is not intended to act as a distinct musical agent, making its prese
 
 ---
 
+### AI in Computational Creativity and Game Design
+
+---
+
+### Societal Impact of AI in Culture, Arts, and Music
+
+
+---
+
 | Activities  |  |  | | |
 |:---|---|---|---|---|
 | **Lectures** | Introduction to Art and Technology | Introduction to AI and ML | Creativity, Group work, and Tools for Innovation |
