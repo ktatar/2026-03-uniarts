@@ -168,6 +168,17 @@ in the artwork *Coding the Latent*
 
 ![align-right width:600](img/neuralacoustics-2.png)
 
+---
+
+#### Neuralacoustics
+
+![align-center width:750](img/neuralacoustics-3.png)
+
+---
+
+#### Neuralacoustics
+
+![align-center width:750](img/neuralacoustics-4.png)
 
 ---
 
