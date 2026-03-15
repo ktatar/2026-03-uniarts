@@ -163,7 +163,7 @@ in the artwork *Coding the Latent*
 
 #### Neuralacoustics
 
-
+![align-center width:900](https://resize-v3.pubpub.org/eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6ImRiaWkzbXhoL2RhdGFzZXRfdmlzdWFsX2V4YW1wbGUtNDE3MTE1OTA3NzA0NDAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxNjAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=)
 
 ---
 
