@@ -129,7 +129,8 @@ Interpolations in the latent space of the VAE
 
 ---
 
-ADD PICTURE FROM SCREEN CAPTURE OF RAWAUDIOVAE
+![align-center width:900](img/coding-the-latent-setup.png)
+
 
 ---
 
