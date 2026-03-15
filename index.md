@@ -43,7 +43,7 @@ Focuses on technical innovations in sound synthesis and modeling using deep lear
 - RawAudio Variational Autoencoder
 - Raw Music from Free Movements
 - Musical Acoustics Simulations
-- Reinforcement Learning for Musical Performances with Moving Machine
+- Reinforcement Learning for Musical Performances with Moving Machines
 
 ---
 
@@ -100,7 +100,7 @@ Interpolations in the latent space of the VAE
 - **RawAudio Variational Autoencoder**
 - Raw Music from Free Movements
 - Musical Acoustics Simulations
-- Reinforcement Learning for Musical Performances with Moving Machine
+- Reinforcement Learning for Musical Performances with Moving Machines
 
 ---
 
@@ -130,7 +130,7 @@ in the artwork *Coding the Latent*
 - RawAudio Variational Autoencoder
 - **Raw Music from Free Movements**
 - Musical Acoustics Simulations
-- Reinforcement Learning for Musical Performances with Moving Machine
+- Reinforcement Learning for Musical Performances with Moving Machines
 
 ---
 
@@ -158,7 +158,7 @@ in the artwork *Coding the Latent*
 - RawAudio Variational Autoencoder
 - Raw Music from Free Movements
 - **Musical Acoustics Simulations**
-- Reinforcement Learning for Musical Performances with Moving Machine
+- Reinforcement Learning for Musical Performances with Moving Machines
 
 ---
 
@@ -189,15 +189,20 @@ in the artwork *Coding the Latent*
 - RawAudio Variational Autoencoder
 - Raw Music from Free Movements
 - Musical Acoustics Simulations
-- **Reinforcement Learning for Musical Performances with Moving Machine**
+- **Reinforcement Learning for Musical Performances with Moving Machines**
 
 ---
 
-#### Reinforcement Learning for Musical Performances with Moving Machine
+#### Reinforcement Learning for Musical Performances with Moving Machines
+
+![bg left width:500](img/ergo.webp)
+
+---
 
 
 
 ---
+
 
 | Activities  |  |  | | |
 |:---|---|---|---|---|
