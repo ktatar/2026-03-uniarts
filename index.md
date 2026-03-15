@@ -156,7 +156,7 @@ Examples of the use of transitions to navigate long distances. D2 used a meander
 
 ![align-center width:850](img/meta-ben-6.png)
 
-The space distribution of these two compositions gives information about how the sound evolves in time. While composer D3 created a gradual and constant evolution by navigating the whole point cloud using the meander transition, B3 was interested in exploring local variations and nuances. This difference can be seen by the fact that the viewpoint is zoomed far out in (a), while it is much closer to the cloud in (b). (a) Composition by D3 (detail), Sound_example_1.m4a in the sound material. (b) Composition by B3 (detail), Sound_example_2.m4a in the sound 
+The space distribution of these two compositions gives information about how the sound evolves in time. While composer D3 created a gradual and constant evolution by navigating the whole point cloud using the meander transition, B3 was interested in exploring local variations and nuances. This difference can be seen by the fact that the viewpoint is zoomed far out in (a), while it is much closer to the cloud in (b).
 
 
 ---
