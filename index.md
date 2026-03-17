@@ -302,6 +302,8 @@ When the AI is not intended to act as a distinct musical agent, making its prese
 
 #### AEGIS: Authentic Edge Growth In Sparsity for Link Prediction
 
+**Game Design Patterns** (Bjork and Holopainen, 2005)
+
 <div
   style="
     width: 100%;
@@ -314,7 +316,7 @@ When the AI is not intended to act as a distinct musical agent, making its prese
   "
 >
   <iframe
-    src="https://play.aidungeon.com/"
+    src="http://virt10.itu.chalmers.se/index.php/Category:Patterns"
     title="AI Dungeon"
     style="
       position: absolute;
@@ -328,6 +330,17 @@ When the AI is not intended to act as a distinct musical agent, making its prese
     allowfullscreen
   ></iframe>
 </div>
+
+---
+
+#### AEGIS: Authentic Edge Growth In Sparsity for Link Prediction
+
+# <!--fit-->**Classificatio**n -> Embedding -> Generative Game Synthesis
+
+---
+
+
+
 
 ---
 
