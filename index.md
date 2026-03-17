@@ -345,7 +345,7 @@ AEGIS: Authentic Edge Growth In Sparsity for Link Prediction approached the clas
 #### Grounding Machine Creativity in Game Design Knowledge Representations
 *Empirical Probing of LLM-Based Executable Synthesis of Goal Playable Patterns under Structural Constraints*
 
- 
+
 
 ---
 
