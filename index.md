@@ -249,7 +249,9 @@ When the AI is not intended to act as a distinct musical agent, making its prese
 
 ---
 
-#### - Understanding Co-Storytelling with Large Language Models (LLMs)
+#### Understanding Co-Storytelling with Large Language Models (LLMs)
+
+![bg right width:600](img/llm-research-design.png)
 
 ---
 
