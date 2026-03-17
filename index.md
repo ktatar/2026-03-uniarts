@@ -333,12 +333,11 @@ When the AI is not intended to act as a distinct musical agent, making its prese
 
 ---
 
-#### AEGIS: Authentic Edge Growth In Sparsity for Link Prediction
-
-# <!--fit-->**Classificatio**n -> Embedding -> Generative Game Synthesis
+# <!--fit-->**Classification** -> Embedding -> Generative Game Synthesis
 
 ---
 
+#### AEGIS: Authentic Edge Growth In Sparsity for Link Prediction
 
 
 
