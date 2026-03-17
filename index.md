@@ -284,18 +284,20 @@ When the AI is not intended to act as a distinct musical agent, making its prese
 
 #### Understanding Co-Storytelling with Large Language Models (LLMs)
 
-![bg left width:600](img/llm-research-design.png)
+![align-center width:800](img/llm-research-design.png)
+
+---
+
+#### Understanding Co-Storytelling with Large Language Models (LLMs)
 
 - Users treat LLM co-storytelling as interactive play
 - AI imperfections (repetition, incoherence, abrupt shifts, incompleteness) came forward as creative affordances rather than failures.
-- Players perceive the AI as a semi-autonomous collaborator, often attributing personality, agency, or preferences to it.
+- Players perceive the AI as a semi-autonomous collaborator in a story that is written together
 - User experience revolves around shifting agency between the machine and the player
+- Users develop strategies for controlling or guiding the LLM via narrative perspective, prompts, and system features (Story Cards, World Info, Author’s Notes).
+- Multimodal storytelling is emerging, with image generation expanding narrative expression.
+- Highlights: Wabi-sabi (imperfection appreciation), anthropomorphism/power dynamics, and the game–tool duality of LLM storytelling systems.
 
-Users develop strategies for controlling or guiding the LLM via narrative perspective, prompts, and system features (Story Cards, World Info, Author’s Notes).
-Structured narrative tools are crucial for maintaining coherence within LLM context limits.
-Players engage in story adaptation, mixing known cultural elements with original material.
-Multimodal storytelling is emerging, with image generation expanding narrative expression.
-Theoretically, the work highlights: Wabi-sabi (imperfection appreciation), anthropomorphism/power dynamics, and the game–tool duality of LLM storytelling systems.
 
 ---
 
