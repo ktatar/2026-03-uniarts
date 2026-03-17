@@ -345,7 +345,14 @@ AEGIS: Authentic Edge Growth In Sparsity for Link Prediction approached the clas
 #### Grounding Machine Creativity in Game Design Knowledge Representations
 *Empirical Probing of LLM-Based Executable Synthesis of Goal Playable Patterns under Structural Constraints*
 
-
+(1) Creative realization as a CC problem framing—situating executable pattern
+instantiation within computational creativity and establishing compile-grounded viability as a necessary condition for
+artifact existence; 
+(2) An execution-grounded evaluation pipeline—an end-to-end workflow from HPC inference to Unity batch replay and per-seed metric aggregation; 
+(3)
+A Unity-specific IR for knowledge injection—IR v0.2-runtime-evidence encoding project-level structural conventions and goal-pattern semantic knowledge, evaluated under three conditioning configurations (free, min, full);
+(4) A structured failure taxonomy—empirical analysis of
+grounding and hygiene failure modes, revealing project-
 
 ---
 
