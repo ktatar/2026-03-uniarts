@@ -286,7 +286,16 @@ When the AI is not intended to act as a distinct musical agent, making its prese
 
 ![bg left width:600](img/llm-research-design.png)
 
+- Users treat LLM co-storytelling as interactive play
+- AI imperfections (repetition, incoherence, abrupt shifts, incompleteness) came forward as creative affordances rather than failures.
+- Players perceive the AI as a semi-autonomous collaborator, often attributing personality, agency, or preferences to it.
+- User experience revolves around shifting agency between the machine and the player
 
+Users develop strategies for controlling or guiding the LLM via narrative perspective, prompts, and system features (Story Cards, World Info, Author’s Notes).
+Structured narrative tools are crucial for maintaining coherence within LLM context limits.
+Players engage in story adaptation, mixing known cultural elements with original material.
+Multimodal storytelling is emerging, with image generation expanding narrative expression.
+Theoretically, the work highlights: Wabi-sabi (imperfection appreciation), anthropomorphism/power dynamics, and the game–tool duality of LLM storytelling systems.
 
 ---
 
