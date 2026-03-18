@@ -363,6 +363,10 @@ We investigated whether large language models can translate structured game‑de
 
 #### A Shift in Artistic Practices through Artificial Intelligence 
 
+![align-center width:900](img/a-shift-1.jpg)
+
+---
+
 
 
 ---
