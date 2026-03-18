@@ -367,10 +367,23 @@ We investigated whether large language models can translate structured game‑de
 
 ---
 
+#### Caring Trouble and Musical AI
 
+![align-center width:1100](img/caring-trouble-1.jpg)
 
 ---
 
+#### Caring Trouble and Musical AI
+
+![align-center width:1100](img/caring-trouble-2.jpg)
+
+---
+
+#### Caring Trouble and Musical AI
+
+![align-center width:550](img/caring-trouble-3.png)
+
+---
 | Activities  |  |  | | |
 |:---|---|---|---|---|
 | **Lectures** | Introduction to Art and Technology | Introduction to AI and ML | Creativity, Group work, and Tools for Innovation |
