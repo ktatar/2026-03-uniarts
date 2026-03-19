@@ -436,7 +436,32 @@ We investigated whether large language models can translate structured game‑de
 
 #### Caring Trouble and Musical AI
 
-
+<div
+  style="
+    width: 100%;
+    height: 70vh;
+    max-height: 400px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    overflow: hidden;
+    position: relative;
+  "
+>
+  <iframe
+    src="https://holly.plus"
+    title="AI Dungeon"
+    style="
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    "
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade"
+    allowfullscreen
+  ></iframe>
+</div>
 
 <small>K. Cotton and K. Tatar, “Caring Trouble and Musical AI: Considerations towards a Feminist Musical AI,” in AIMC 2023, Aug. 2023. Accessed: Feb. 22, 2024. [Online]. Available: https://aimc2023.pubpub.org/pub/zwjy371l/release/1
 </small>
