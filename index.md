@@ -555,16 +555,16 @@ We investigated whether large language models can translate structured game‑de
 - Deep Learning and Audio
 - Multimodal Deep Learning for Movement and Audio
 - AI in Computational Creativity and Game Design
--  
+- **Societal Impact of AI in Culture, Arts, and Music**
 - Artworks
 
 ---
 
 ### Societal Impact of AI in Culture, Arts, and Music
 
-- A Shift in Artistic Practices through Artificial Intelligence
-- Caring Trouble and Musical AI: Considerations towards a Feminist Musical AI
-- Singing for the Missing: Bringing the Body Back to AI Voice and Speech Technologies
+- **A Shift in Artistic Practices through Artificial Intelligence**
+- Caring Trouble and Musical AI
+- Bringing the Body Back to AI Voice and Speech Technologies
 
 ---
 
@@ -607,6 +607,14 @@ We investigated whether large language models can translate structured game‑de
 
 <small>K. Cotton and K. Tatar, “Caring Trouble and Musical AI: Considerations towards a Feminist Musical AI,” in AIMC 2023, Aug. 2023. Accessed: Feb. 22, 2024. [Online]. Available: https://aimc2023.pubpub.org/pub/zwjy371l/release/1
 </small>
+
+---
+
+### Societal Impact of AI in Culture, Arts, and Music
+
+- A Shift in Artistic Practices through Artificial Intelligence
+- **Caring Trouble and Musical AI**
+- Bringing the Body Back to AI Voice and Speech Technologies
 
 ---
 
