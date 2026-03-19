@@ -470,8 +470,10 @@ We investigated whether large language models can translate structured game‑de
 
 #### Caring Trouble and Musical AI
 
+![align-center width:1000](img/caring-trouble-1.jpg)
 
-![align-center width:1100](img/caring-trouble-1.jpg)
+<small>Haraway, D. (2013). A cyborg manifesto: Science, technology, and socialist-feminism in the late twentieth century. In The transgender studies reader (pp. 103–118). Routledge.</small>
+
 
 ---
 
