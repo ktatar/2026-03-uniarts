@@ -361,22 +361,22 @@ The six takeaways from our conceptualization of neural audio instruments:
 - Towards Computationally Creative Game Design
 - Understanding Co-Storytelling with Large Language Models (LLMs)
 - AEGIS: Authentic Edge Growth In Sparsity for Link Prediction
+- Grounding Machine Creativity in Game Design Knowledge Representations
 
 ---
 
 ### AI in Computational Creativity and Game Design
 
+- Towards Computationally Creative Game Design
 - Understanding Co-Storytelling with Large Language Models (LLMs)
 - AEGIS: Authentic Edge Growth In Sparsity for Link Prediction
 - Grounding Machine Creativity in Game Design Knowledge Representations
 
 ---
 
-### AI in Computational Creativity and Game Design
+#### Towards Computationally Creative Game Design
 
-- **Understanding Co-Storytelling with Large Language Models (LLMs)**
-- AEGIS: Authentic Edge Growth In Sparsity for Link Prediction
-- Grounding Machine Creativity in Game Design Knowledge Representations
+
 
 ---
 
