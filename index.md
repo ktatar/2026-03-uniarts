@@ -347,11 +347,36 @@ The six takeaways from our conceptualization of neural audio instruments:
 
 ---
 
+## Research Themes
+
+- Deep Learning and Audio
+- Multimodal Deep Learning for Movement and Audio
+- **AI in Computational Creativity and Game Design**
+- Societal Impact of AI in Culture, Arts, and Music
+
+---
+
 ### AI in Computational Creativity and Game Design
 
 - Towards Computationally Creative Game Design
 - Understanding Co-Storytelling with Large Language Models (LLMs)
 - AEGIS: Authentic Edge Growth In Sparsity for Link Prediction
+
+---
+
+### AI in Computational Creativity and Game Design
+
+- Understanding Co-Storytelling with Large Language Models (LLMs)
+- AEGIS: Authentic Edge Growth In Sparsity for Link Prediction
+- Grounding Machine Creativity in Game Design Knowledge Representations
+
+---
+
+### AI in Computational Creativity and Game Design
+
+- **Understanding Co-Storytelling with Large Language Models (LLMs)**
+- AEGIS: Authentic Edge Growth In Sparsity for Link Prediction
+- Grounding Machine Creativity in Game Design Knowledge Representations
 
 ---
 
