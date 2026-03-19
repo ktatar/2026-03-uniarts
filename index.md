@@ -350,7 +350,7 @@ Previous work: Game Design Patterns (Bjork and Holopainen, 2005) includes 200 pa
   "
 >
   <iframe
-    src="https://gdpv.is"
+    src="http://virt10.itu.chalmers.se/index.php/Category:Patterns"
     title="AI Dungeon"
     style="
       position: absolute;
@@ -389,7 +389,7 @@ AEGIS: Authentic Edge Growth In Sparsity for Link Prediction approached the clas
   "
 >
   <iframe
-    src="http://virt10.itu.chalmers.se/index.php/Category:Patterns"
+    src="https://gdpv.is"
     title="AI Dungeon"
     style="
       position: absolute;
@@ -426,6 +426,8 @@ We investigated whether large language models can translate structured game‑de
 #### A Shift in Artistic Practices through Artificial Intelligence 
 
 ![align-center width:900](img/a-shift-1.jpg)
+
+<small>K. Tatar et al., “A Shift in Artistic Practices through Artificial Intelligence,” Leonardo, pp. 293–297, Apr. 2024, doi: 10.1162/leon_a_02523.</small>
 
 ---
 
