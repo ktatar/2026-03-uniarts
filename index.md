@@ -639,6 +639,11 @@ We investigated whether large language models can translate structured game‑de
 
 #### Singing for the Missing: Bringing the Body Back to AI Voice and Speech Technologies
 
+Both Bennett and Briggs provided voice
+recordings for GM Voices, which were later licensed to ScanSoft.
+Their voice datasets were then later allegedly used to build the voice
+of the American Siri (Bennett) and British Siri (Briggs) through
+speech concatenation
 
 ---
 
