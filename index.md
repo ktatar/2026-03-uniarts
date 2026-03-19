@@ -372,7 +372,8 @@ Previous work: Game Design Patterns (Bjork and Holopainen, 2005) includes 200 pa
   ></iframe>
 </div>
 
-<small> Bjork, S., and Holopainen, J. 2005. Patterns in game design, volume 11. Charles River Media Hingham. </small>
+<small> <http://virt10.itu.chalmers.se/index.php/Category:Patterns> 
+Bjork, S., and Holopainen, J. 2005. Patterns in game design, volume 11. Charles River Media Hingham. </small>
 
 ---
 
