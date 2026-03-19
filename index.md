@@ -471,6 +471,12 @@ We investigated whether large language models can translate structured game‑de
 
 ---
 
+#### Exposing the Bias in Artificial Intelligence
+
+
+
+---
+
 # Thank you! 
 
 Feel free to reach out -> tatar@chalmers.se
