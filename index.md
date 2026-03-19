@@ -650,8 +650,7 @@ Apple has never confirmed, nor denied whether they utilised Bennett’s concaten
 
 #### Singing for the Missing: Bringing the Body Back to AI Voice and Speech Technologies
 
-- Integrating Voice rights into personality rights frameworks
-- 
+**Integrating voice rights into personality rights frameworks**
 
 ---
 
