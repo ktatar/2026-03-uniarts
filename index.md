@@ -135,6 +135,15 @@ in the artwork *Coding the Latent*
 
 ![align-right width:600](img/meta-ben-2.png)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <small>Madaghiele V., Lund L., Holzer D., Kelkar T., Tatar, K., and Holzapfel A. (2026). Expanding the machine: notating generative synthesis with a state-based representation and an interactive timbre space. Organised Sound, Cambridge Press.</small>
 
 ---
@@ -147,7 +156,7 @@ in the artwork *Coding the Latent*
 
 #### Music Notation and Composition with Latent Spaces
 
-![align-center width:850](img/meta-ben-4.png)
+![align-center width:800](img/meta-ben-4.png)
 
 ---
 
