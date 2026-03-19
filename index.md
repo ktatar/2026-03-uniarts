@@ -411,12 +411,12 @@ AEGIS: Authentic Edge Growth In Sparsity for Link Prediction approached the clas
 
 We investigated whether large language models can translate structured game‑design knowledge—specifically goal‑pattern  abstractions—into executable Unity game scenes
 
-**Problem framing:** Introduces creative realization as a computational creativity problem—turning design‑pattern abstractions into executable, playable artifacts under real engine constraints.
-**Execution‑grounded evaluation pipeline:** Develops a full end‑to‑end workflow (LLM generation → Unity batch compilation → log‑based failure analysis) for assessing executable viability at scale.
-**Failure taxonomy:** Identifies and characterizes grounding failures (missing project or engine knowledge) and hygiene failures (syntactic/format issues), showing grounding failures as the primary bottleneck.
+**Game Development Framing:** Digital game development as a computational creativity activity, in which design‑pattern abstractions and game engine constraints guide the creation of an executable, playable game
+**Execution‑grounded evaluation pipeline:** An end‑to‑end workflow (LLM generation → Unity batch compilation → log‑based failure analysis) for assessing executable viability at scale.
 **Insights on human–machine knowledge boundaries:** Shows that while IR reduces some failure types, it also increases structural complexity, revealing a tension in how domain knowledge should be injected into generative systems.
 
 <small>H. X. Liu and K. Tatar, “Grounding Machine Creativity in Game Design Knowledge Representations: Empirical Probing of LLM-Based Executable Synthesis of Goal Playable Patterns under Structural Constraints,” Mar. 16, 2026, arXiv: arXiv:2603.07101. doi: 10.48550/arXiv.2603.07101. </small>
+
 ---
 
 ### Societal Impact of AI in Culture, Arts, and Music
