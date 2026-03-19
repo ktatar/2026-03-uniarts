@@ -22,9 +22,11 @@ https://ktatar.github.io/2026-03-docent-lecture/ </small>
 ## Research Themes
 
 - Deep Learning and Audio
-- AI and in Sound and Music Interactions
+- Multimodal Deep Learning for Movement and Audio
 - AI in Computational Creativity and Game Design
 - Societal Impact of AI in Culture, Arts, and Music
+
+---
 
 ---
 
