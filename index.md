@@ -183,6 +183,8 @@ in the artwork *Coding the Latent*
 
 ![align-center width:250](img/ergo-1.png)
 
+<small>Caravati, Matteo, Tatar, Kıvanç. (2024). Interfacing ErgoJr with Creative Coding Platforms. In Proceedings of the 9th International Conference on Movement and Computing. Utrecht, Netherlands, May 2024. https://dl.acm.org/doi/10.1145/3658852.3659082</small>
+
 ---
 
 ![align-left width:500](img/ergo-2.png)
