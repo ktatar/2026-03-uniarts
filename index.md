@@ -489,9 +489,11 @@ We investigated whether large language models can translate structured game‑de
 
 ---
 
-#### Conceptual Pillars of Artistic Creativity
+### Artworks
 
-![align-center width:1000](img/artwork-1.jpg)
+---
+
+#### Digital Ripples
 
 ---
 
