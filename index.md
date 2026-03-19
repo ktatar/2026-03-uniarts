@@ -19,12 +19,17 @@ https://ktatar.github.io/2026-03-docent-lecture/ </small>
 
 ## Acknowledgements
 
+| Country  | Funding Body  | Timeline |
+|:---|:---|:---|
+| Sweden | The Wallenberg AI, Autonomous Systems, and Software Program – Humanities and Society |2025-2030 |
+| Sweden | VR - Vetenskapsrådet | 2025-2031 |
+| Sweden | The Wallenberg AI, Autonomous Systems, and Software Program – Humanities and Society |2021-2026 |
+| Canada | Canada Council for the Arts | 2018-2021 |
+| Canada |BC Arts Council | 2020 |
+| Switzerland | Swiss National Science Foundation | 2020-2021|
+| Canada |Social Sciences and Humanities Research Council| 2014-2020 |
+| Canada |Natural Sciences and Engineering Research Council| 2014- 2019 |
 
-| Funding  |  |  | | |
-|:---|---|---|---|---|
-|Canada | 2018-2021 | Canada Council for the Arts | Introduction to AI and ML |
-| **Tutorials** | Creative Coding with Sound (PureData) | Multimedia Design with TouchDesigner | Deep Learning for Multimedia | Interactive ML with Physical Computing |
-| **Project** |Project Proposal| Design Iterations | Final Prototype | Reflections |
 
 ---
 
@@ -37,6 +42,14 @@ https://ktatar.github.io/2026-03-docent-lecture/ </small>
 - Artworks
 
 ---
+
+## Research Themes
+
+- **Deep Learning and Audio**
+- Multimodal Deep Learning for Movement and Audio
+- AI in Computational Creativity and Game Design
+- Societal Impact of AI in Culture, Arts, and Music
+- Artworks
 
 ---
 
