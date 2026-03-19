@@ -25,6 +25,7 @@ https://ktatar.github.io/2026-03-docent-lecture/ </small>
 - Multimodal Deep Learning for Movement and Audio
 - AI in Computational Creativity and Game Design
 - Societal Impact of AI in Culture, Arts, and Music
+- Artworks
 
 ---
 
@@ -594,6 +595,13 @@ We investigated whether large language models can translate structured game‑de
 ---
 
 ### Artworks
+
+- Expert Procrastinator's Tool: Artificial Intelligence (2023)
+- Conceptual Pillars of Artistic Creativity
+- Digital Ripples (2020)
+- Experiments with VQGAN Text-to-Image Synthesis
+- Exposing the Bias in Artificial Intelligence: The Cyber Future
+- Exposing the Bias in Artificial Intelligence: The Machine Lexicon
 
 ---
 
