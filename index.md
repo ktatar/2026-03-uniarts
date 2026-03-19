@@ -9,13 +9,10 @@ paginate: true
 
 # Machine Learning and Artificial Intelligence Applied to Computational Arts, Music, and Games
 
-
-
 <small> These slides are live at: 
 https://ktatar.github.io/2026-03-docent-lecture/ </small>
 
 ![width:150](img/qrcode.png)
-
 
 ---
 
@@ -553,11 +550,21 @@ We investigated whether large language models can translate structured game‑de
 
 ---
 
+## Research Themes
 
+- Deep Learning and Audio
+- Multimodal Deep Learning for Movement and Audio
+- AI in Computational Creativity and Game Design
+-  
+- Artworks
 
 ---
 
 ### Societal Impact of AI in Culture, Arts, and Music
+
+- A Shift in Artistic Practices through Artificial Intelligence
+- Caring Trouble and Musical AI: Considerations towards a Feminist Musical AI
+- Singing for the Missing: Bringing the Body Back to AI Voice and Speech Technologies
 
 ---
 
@@ -621,6 +628,12 @@ We investigated whether large language models can translate structured game‑de
 #### Caring Trouble and Musical AI
 
 ![align-center width:550](img/caring-trouble-3.png)
+
+---
+
+#### Singing for the Missing: Bringing the Body Back to AI Voice and Speech Technologies
+
+
 
 ---
 
