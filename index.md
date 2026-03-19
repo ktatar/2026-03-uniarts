@@ -544,8 +544,12 @@ We investigated whether large language models can translate structured game‑de
 
 ---
 
-#### Exposing the Bias in Artificial Intelligence
 
+![align-center width:1000](img/best-to-worst.webm)
+
+---
+
+#### Exposing the Bias in Artificial Intelligence
 
 
 ---
