@@ -646,13 +646,15 @@ of the American Siri (Bennett) and British Siri (Briggs) through speech concaten
 
 Apple has never confirmed, nor denied whether they utilised Bennett’s concatenated speech data, nor Briggs’. In the case of Bennett, audio forensics expert Ed Primeau studied recordings of Siri and blind recordings of Bennett’s voice and presented his the conclusion of his analysis that “They are identical – a 100 % match.”
 
+<small>Cotton, Kelsey, de Vries, Katja & Tatar, Kıvanç. (2024). Singing for the Missing: Bringing the Body Back to AI Voice and Speech Technologies. In Proceedings of the 9th International Conference on Movement and Computing. Utrecht, Netherlands, May 2024. https://dl.acm.org/doi/10.1145/3658852.3659065</small>
+
 ---
 
 #### Singing for the Missing: Bringing the Body Back to AI Voice and Speech Technologies
 
 - Integrating voice rights into personality rights frameworks
 - The data frameworks for voice should be designed to have direct connection to their source body
-- 
+- Similarity should be revisited, where nations take their own stances through democratic processes
 
 ---
 
