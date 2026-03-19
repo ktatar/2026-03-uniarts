@@ -544,11 +544,15 @@ We investigated whether large language models can translate structured game‑de
 
 ---
 
-<video controls src="best-to-worst.webm" width="800"></video>
+#### Experiments with VQGAN Text-to-Image Synthesis
+
+<video controls src="best-to-worst.mp4" width="450"></video>
 
 ---
 
-#### Exposing the Bias in Artificial Intelligence
+#### Exposing the Bias in Artificial Intelligence: The Cyber Future
+
+
 
 
 ---
