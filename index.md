@@ -376,10 +376,15 @@ The six takeaways from our conceptualization of neural audio instruments:
 
 #### Towards Computationally Creative Game Design
 
-![align-center width:700](img/co-occurrence-network.jpg)
+![bg right width:650](img/co-occurrence-network.jpg)
 
-<small>We investigated the correlation between the appearance of creativity-related terms and their co-occurrence with other keywords. 
-The co-occurrence network visualizes the relationships and connections between frequently co-occurring keywords within the same article. </small>
+Reviewed 236 studies on learning-based AI in game design
+
+While AI technologies are widely applied for functional and procedural tasks, **creativity remains underexplored**
+
+We investigated the correlation between the appearance of creativity-related terms and their co-occurrence with other keywords. 
+
+The co-occurrence network here visualizes the relationships and connections between frequently co-occurring keywords within the same article. 
 
 ---
 
