@@ -95,6 +95,8 @@ in the artwork *Coding the Latent*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rfq82eKE-34?si=1yz17QB_0yfCKHvS&amp;start=2160" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<small> K. Tatar, K. Cotton, and D. Bisig, “Sound Design Strategies for Latent Audio Space Explorations Using Deep Learning Architectures,” presented at the Proceedings of Sound and Music Computing 2023, 2023.</small>
+
 ---
 
 #### RawAudio Variational Autoencoder
@@ -114,6 +116,8 @@ in the artwork *Coding the Latent*
 ![align-left width:450](img/neuralacoustics-1.png)
 
 ![align-right width:700](img/neuralacoustics-4.png)
+
+<small> </small>
 
 ---
 
