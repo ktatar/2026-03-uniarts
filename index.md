@@ -21,7 +21,7 @@ https://ktatar.github.io/2026-03-docent-lecture/ </small>
 
 ## Research Themes
 
-- Deep Learning and Audio Technologies
+- Deep Learning and Audio
 - AI and in Sound and Music Interactions
 - AI in Computational Creativity and Game Design
 - Societal Impact of AI in Culture, Arts, and Music
@@ -32,7 +32,19 @@ https://ktatar.github.io/2026-03-docent-lecture/ </small>
 
 Focuses on technical innovations in sound synthesis and modeling using deep learning:
 
-TBD
+- Latent Timbre Synthesis
+- Coding the Latent Artwork and RawAudio Variational Autoencoder
+- Neuralacoustics
+- Music Notation and Composition with Latent Spaces
+
+---
+
+### Deep Learning and Audio
+
+- **Latent Timbre Synthesis**
+- Coding the Latent Artwork and RawAudio Variational Autoencoder
+- Neuralacoustics
+- Music Notation and Composition with Latent Spaces
 
 ---
 
@@ -83,9 +95,16 @@ Interpolations in the latent space of the VAE
 
 ---
 
+### Deep Learning and Audio
+
+- Latent Timbre Synthesis
+- **Coding the Latent Artwork and RawAudio Variational Autoencoder**
+- Neuralacoustics
+- Music Notation and Composition with Latent Spaces
+
+---
+
 #### Coding the Latent Artwork and RawAudio Variational Autoencoder 
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rfq82eKE-34?si=1yz17QB_0yfCKHvS&amp;start=2160" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -111,6 +130,15 @@ Interpolations in the latent space of the VAE
     
 ---
 
+### Deep Learning and Audio
+
+- Latent Timbre Synthesis
+- Coding the Latent Artwork and RawAudio Variational Autoencoder
+- **Neuralacoustics**
+- Music Notation and Composition with Latent Spaces
+
+---
+
 #### Neuralacoustics
 
 ![align-left width:450](img/neuralacoustics-1.png)
@@ -130,6 +158,15 @@ Interpolations in the latent space of the VAE
 #### Neuralacoustics
 
 ![align-center width:500](img/neuralacoustics-2.png)
+
+---
+
+### Deep Learning and Audio
+
+- Latent Timbre Synthesis
+- Coding the Latent Artwork and RawAudio Variational Autoencoder
+- Neuralacoustics
+- **Music Notation and Composition with Latent Spaces**
 
 ---
 
@@ -180,7 +217,6 @@ Interpolations in the latent space of the VAE
 ![align-center width:1200](img/meta-ben-6.png)
 
 <small>The space distribution of these two compositions gives information about how the sound evolves in time. While composer D3 created a gradual and constant evolution by navigating the whole point cloud using the meander transition, B3 was interested in exploring local variations and nuances. This difference can be seen by the fact that the viewpoint is zoomed far out in (a), while it is much closer to the cloud in (b).</small>
-
 
 ---
 
@@ -558,7 +594,7 @@ We investigated whether large language models can translate structured game‑de
 
 #### Exposing the Bias in Artificial Intelligence: The Machine Lexicon
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/79gJtoeOhHE?si=dHgWsZPMWFxTO_kt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhOfPQJSrok?si=oXLhS4DY-nMmvASS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 # Thank you! 
