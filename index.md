@@ -105,6 +105,12 @@ in the artwork *Coding the Latent*
 
 ---
 
+#### RawAudio Variational Autoencoder
+
+![align-center width:800](img/coding-the-latent-setup.png)
+
+---
+
 #### Neuralacoustics
 
 ![align-left width:450](img/neuralacoustics-1.png)
@@ -199,12 +205,6 @@ in the artwork *Coding the Latent*
 ![align-left width:500](img/ergo-2.png)
 
 ![align-center width:400](img/ergo-3.png)
-
----
-
-#### Raw Music from Free Movements
-
-![align-center width:900](img/coding-the-latent-setup.png)
 
 ---
 
