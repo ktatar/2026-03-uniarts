@@ -544,8 +544,7 @@ We investigated whether large language models can translate structured game‑de
 
 ---
 
-
-![align-center width:1000](img/best-to-worst.webm)
+<video controls src="img/best-to-worst.webm" width="800"></video>
 
 ---
 
