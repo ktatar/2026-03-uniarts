@@ -218,6 +218,8 @@ in the artwork *Coding the Latent*
 
 ![align-center width:900](img/ramfem-architecture.png)
 
+
+
 ---
 
 #### Neural Audio Instruments
