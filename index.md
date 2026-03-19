@@ -406,5 +406,3 @@ We investigated whether large language models can translate structured game‑de
 # Thank you! 
 
 Feel free to reach out -> tatar@chalmers.se
-
----
