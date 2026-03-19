@@ -210,7 +210,9 @@ in the artwork *Coding the Latent*
 
 #### Raw Music from Free Movements
 
-![align-center width:900](https://ktatar.github.io/rawmusicfromfreemovements/content/movement_audio.png)
+![align-center width:1300](https://ktatar.github.io/rawmusicfromfreemovements/content/movement_audio.png)
+
+<small>Tatar, K., Cotton, K., Bisig, D. (2023). Sound Design Strategies for Latent Audio Space Explorations Using Deep Learning Architectures. In Proceedings of Sound and Music Computing 2023. https://arxiv.org/pdf/2305.15571 </small>
 
 ---
 
@@ -218,11 +220,27 @@ in the artwork *Coding the Latent*
 
 ![align-center width:900](img/ramfem-architecture.png)
 
-
-
 ---
 
 #### Neural Audio Instruments
+
+<br>
+
+The six takeaways from our conceptualization of neural audio instruments:
+
+- Stand on the shoulders of giants
+- Search for new modes of interaction
+- Challenge dualities
+- Embrace inexplicability (with a grain of salt)
+- Make AI inconspicuous
+
+<br>
+<br>
+<br>
+
+<small>Neural audio instruments: Epistemological and phenomenological perspectives on musical embodiment of deep learning. Frontiers in Computer Science, 7. https://doi.org/10.3389/fcomp.2025.1575168</small>
+
+---
 
 **0.Stand on the shoulders of giants**
 
