@@ -296,6 +296,12 @@ Emerging themes from the user study with 9 composers:
 
 ---
 
+#### Music Notation and Composition with Latent Spaces
+
+
+
+---
+
 ## Research Themes
 
 - Deep Learning and Audio
