@@ -741,7 +741,14 @@ We investigated whether large language models can translate structured game‑de
 
 #### Caring Trouble and Musical AI
 
+![align-right width:900](img/caring-trouble-4.png)
 
+Analyzing,
+
+- *Corpus Nil* by Marco Donnarumma
+- *Zizi Show* by Jake Elwes
+- *the machine is learning* by Marije Baalman
+- *Shimon* by Gil Weinberg et al. 
 
 ---
 
