@@ -455,7 +455,7 @@ The six takeaways from our conceptualization of neural audio instruments:
   style="
     width: 100%;
     height: 70vh;
-    max-height: 400px;
+    max-height: 380px;
     border: 1px solid #ddd;
     border-radius: 12px;
     overflow: hidden;
@@ -477,6 +477,8 @@ The six takeaways from our conceptualization of neural audio instruments:
     allowfullscreen
   ></iframe>
 </div>
+
+<small>Liu, X., Holopainen, J., Tatar, K. Understanding Human–LLM Co-Storytelling as Interactive Narrative Play: Evidence from AI Dungeon. Submitted to ACM CHI PLAY 2026.</small>
 
 ---
 
