@@ -829,6 +829,16 @@ Apple has never confirmed, nor denied whether they utilised Bennett’s concaten
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RhOfPQJSrok?si=oXLhS4DY-nMmvASS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
+
+## Research Themes
+
+- Deep Learning and Audio
+- Multimodal Deep Learning for Movement and Audio
+- AI in Computational Creativity and Game Design
+- Societal Impact of AI in Culture, Arts, and Music
+- Artworks
+
+---
 # Thank you! 
 
 Feel free to reach out -> tatar@chalmers.se
