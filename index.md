@@ -15,7 +15,6 @@ https://ktatar.github.io/2026-03-docent-lecture/ </small>
 ![width:150](img/qrcode.png)
 
 ---
-<!-- _class: no_border -->
 
 ## Acknowledgements
 
