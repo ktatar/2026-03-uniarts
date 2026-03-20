@@ -88,6 +88,7 @@ Focuses on technical innovations in sound synthesis and modeling using deep lear
 ---
 
 #### Latent Timbre Synthesis
+Architecture
 
 ![bg right width:400](img/timbre_vae.png)
 
