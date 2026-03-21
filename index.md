@@ -75,13 +75,13 @@ K. Tatar, “Musical agents based on self-organizing maps for audio applications
 
 #### Training in MASOM
 
-![align-right width:800](img/masom-training.png)
+![align-right width:800](img/masom-training.pdf)
 
 ---
 
 #### Co-Performance with MASOM
 
-![align-right width:900](img/masom-live.png)
+![align-right width:900](img/masom-live.pdf)
 
 ---
 
