@@ -81,12 +81,6 @@ K. Tatar, “Musical agents based on self-organizing maps for audio applications
 
 ---
 
-Experimentation is an ongoing process in artistic practice, "the outcome of which is not foreseen" [1]
-
-<small>[1]  J. Cage, Silence: Lectures and Writings, Wesleyan, 1961.</small>
-
----
-
 ## Deep Generative Modelling and Latent Spaces for Audio
 
 What is a latent space? 
@@ -97,14 +91,77 @@ What is a latent space?
 
 ### Latent Timbre Synthesis
 
+![align-center width:650](https://camo.githubusercontent.com/3fd7f5186b4aab037b57b340eddde353badf52b196389622f70db93117438264/68747470733a2f2f6769746c61622e636f6d2f6b74617461722f6c6174656e742d74696d6272652d73796e7468657369732f2d2f7261772f737461626c652f696d616765732f696e746572706f6c6174655f74776f5f75692e6a7067)
+
+<small> K. Tatar, D. Bisig, and P. Pasquier, “Latent Timbre Synthesis,” Neural Computing & Applications, Oct. 2020, doi: 10.1007/s00521-020-05424-2.
+</small>
+
 ---
 
-### Coding the Latent
+#### Latent Timbre Synthesis
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZJm-N_-ySe0?si=WDxjA7frj4Jj3COq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
+#### Latent Timbre Synthesis
+Architecture
 
+![bg right width:400](img/timbre_vae.png)
 
+---
+
+#### Latent Timbre Synthesis
+
+Interpolations in the latent space of the VAE
+
+![align-left width:550](img/inter_latent_space_scatter.png)
+
+![align-right width:550](img/full_latent_space_scatter.png)
+
+---
+
+#### Latent Timbre Synthesis
+
+Emerging themes from the user study with 9 composers: 
+
+- Iterative sound design in musical composition
+- Musical strategies
+- Musical goals and concepts
+- Familiarity
+- Affordances
+- Sound aesthetics
+- Sound quality
+- User Inteface
+- Tool Deficiencies
+- Continued use
+
+---
+
+#### Coding the Latent Artwork and RawAudio Variational Autoencoder 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rfq82eKE-34?si=1yz17QB_0yfCKHvS&amp;start=2160" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+#### Coding the Latent
+
+![align-center width:800](img/coding-the-latent-setup.png)
+
+---
+
+#### Sound Design Strategies for Latent Audio Space Explorations
+
+![align-center width:900](img/smc-poster-3-strategies.jpg)
+
+<small> K. Tatar, K. Cotton, and D. Bisig, “Sound Design Strategies for Latent Audio Space Explorations Using Deep Learning Architectures,” presented at the Proceedings of Sound and Music Computing 2023, 2023.</small>
+
+---
+
+#### RawAudio Variational Autoencoder
+
+![align-center width:900](img/coding-the-latent-arc.jpg)
+    
 ---
 
 Start from the theoretical foundations of your artistic practice
@@ -152,71 +209,6 @@ Focuses on technical innovations in sound synthesis and modeling using deep lear
 - Coding the Latent Artwork and RawAudio Variational Autoencoder
 - Neuralacoustics
 - Music Notation and Composition with Latent Spaces
-
----
-
-#### Latent Timbre Synthesis
-
-![align-center width:700](https://camo.githubusercontent.com/3fd7f5186b4aab037b57b340eddde353badf52b196389622f70db93117438264/68747470733a2f2f6769746c61622e636f6d2f6b74617461722f6c6174656e742d74696d6272652d73796e7468657369732f2d2f7261772f737461626c652f696d616765732f696e746572706f6c6174655f74776f5f75692e6a7067)
-
----
-
-#### Latent Timbre Synthesis
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZJm-N_-ySe0?si=WDxjA7frj4Jj3COq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<small> K. Tatar, D. Bisig, and P. Pasquier, “Latent Timbre Synthesis,” Neural Computing & Applications, Oct. 2020, doi: 10.1007/s00521-020-05424-2.
-</small>
-
----
-
-#### Latent Timbre Synthesis
-Architecture
-
-![bg right width:400](img/timbre_vae.png)
-
----
-
-#### Latent Timbre Synthesis
-
-Notes on Reproducibility
-
-![bg right width:600](img/run_logs.png)
-
----
-
-#### Latent Timbre Synthesis
-
-Notes on Reproducibility
-
-![align-left width:1200](img/interpolations_small.png)
-
----
-
-#### Latent Timbre Synthesis
-
-Interpolations in the latent space of the VAE
-
-![align-left width:550](img/inter_latent_space_scatter.png)
-
-![align-right width:550](img/full_latent_space_scatter.png)
-
----
-
-#### Latent Timbre Synthesis
-
-Emerging themes from the user study with 9 composers: 
-
-- Iterative sound design in musical composition
-- Musical strategies
-- Musical goals and concepts
-- Familiarity
-- Affordances
-- Sound aesthetics
-- Sound quality
-- User Inteface
-- Tool Deficiencies
-- Continued use
 
 
 ---
