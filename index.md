@@ -26,7 +26,17 @@ https://ktatar.github.io/2026-03-docent-lecture/ </small>
 
 ---
 
+What does Artificial Intelligence technology encapsulate?
 
+- Good-old fashioned AI (Symbolic AI, Expert Systems, Rule-based Systems, etc.)
+- Evolutionary Algorithms (Genetic Algorithms, Genetic Programming, etc.)
+- Artificial Life
+- Multi-agent Systems
+- Machine Learning (Supervised, Unsupervised, Semi-supervised learning; such as SVMs, Decision Trees, Random Forests, KNN, etc.)
+- Deep Learning (Artificial Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, Transformers, etc.)
+- Deep Generative Models (Variational Autoencoders, Generative Adversarial Networks, Flow-based Models, etc.)
+- Reinforcement Learning (Q-Learning, Deep Q-Networks, Policy Gradient Methods, etc.)
+  
 
 ---
 
