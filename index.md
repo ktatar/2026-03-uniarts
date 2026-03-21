@@ -54,9 +54,9 @@ The Conceptualizations in the artistic practices imply the automation and automi
 
 ---
 
-## Musical Agents based on Self-Organizing Maps
+## Organising Sound with Artificial Intelligence
 
-
+![align-center width:550](img/organised-sound.png)
 
 ---
 
