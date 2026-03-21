@@ -50,15 +50,11 @@ What does Artificial Intelligence technology encapsulate?
 
 ---
 
-"What can we do with AI in Arts?"
-
-is much like asking "Can we add some music to this movie?"
-
----
-
 The Conceptualizations in the artistic practices imply the automation and automization. 
 
 ---
+
+## Musical Agents based on Self-Organizing Maps
 
 
 
