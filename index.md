@@ -10,7 +10,7 @@ paginate: true
 # Machine Learning and Artificial Intelligence Applied to Computational Arts, Music, and Games
 
 <small> These slides are live at: 
-https://ktatar.github.io/2026-03-docent-lecture/ </small>
+https://ktatar.github.io/2026-03-uniarts/ </small>
 
 ![width:150](img/qrcode.png)
 
@@ -23,6 +23,11 @@ https://ktatar.github.io/2026-03-docent-lecture/ </small>
 - AI in Computational Creativity and Game Design
 - Societal Impact of AI in Culture, Arts, and Music
 - Artworks
+
+---
+
+<p style="text-align: left;font-size:48px;color:gray;"> Machine Learning and Artificial Intelligence technologies are nothing but a new level of computational autonomy.
+</p>
 
 ---
 
@@ -41,12 +46,21 @@ What does Artificial Intelligence technology encapsulate?
 
 ---
 
-<p style="text-align: left;font-size:48px;color:gray;"> Machine Learning and Artificial Intelligence technologies are nothing but a new level of computational autonomy.
-</p>
+## Calculating Empires (Crawford and Joler 2023)
 
 ---
 
-The Conceptualizations in the artistic practice implies the automation and automization. 
+"What can we do with AI in Arts?"
+
+is much like asking "Can we add some music to this movie?"
+
+---
+
+The Conceptualizations in the artistic practices imply the automation and automization. 
+
+---
+
+
 
 ---
 
