@@ -35,6 +35,10 @@ The Conceptualizations in the Artistic Practice implies the automation and autom
 
 ---
 
+Experimentation 
+
+---
+
 ## Research Themes
 
 - **Deep Learning and Audio**
