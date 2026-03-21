@@ -91,6 +91,21 @@ Experimentation is an ongoing process in artistic practice, "the outcome of whic
 
 ---
 
+---
+
+Start from the theoretical foundations of your artistic practice
+
+Ideate what would be interesting to automate
+
+Explore AI/ML approaches that are suitable to that
+
+In parallel, 
+
+Try new AI/ML tools and techniques that are relevant to your domain and practice continuously
+Transform them with your wishes ie (expansion, conceptual shifting, cross-modal approaches, add, subtract etc.)
+
+---
+
 
 
 ---
