@@ -138,7 +138,7 @@ Emerging themes from the user study with 9 composers:
 
 ---
 
-#### Coding the Latent Artwork and RawAudio Variational Autoencoder 
+#### Coding the Latent
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rfq82eKE-34?si=1yz17QB_0yfCKHvS&amp;start=2160" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -158,10 +158,14 @@ Emerging themes from the user study with 9 composers:
 
 ---
 
-#### RawAudio Variational Autoencoder
+#### Coding the Latent
 
 ![align-center width:900](img/coding-the-latent-arc.jpg)
-    
+
+---
+
+
+
 ---
 
 Start from the theoretical foundations of your artistic practice
