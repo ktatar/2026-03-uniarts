@@ -16,13 +16,9 @@ https://ktatar.github.io/2026-03-uniarts/ </small>
 
 ---
 
-## Research Themes
+## Overview
 
-- Deep Learning and Audio
-- Multimodal Deep Learning for Movement and Audio
-- AI in Computational Creativity and Game Design
-- Societal Impact of AI in Culture, Arts, and Music
-- Artworks
+
 
 ---
 
@@ -90,6 +86,10 @@ Experimentation is an ongoing process in artistic practice, "the outcome of whic
 <small>[1]  J. Cage, Silence: Lectures and Writings, Wesleyan, 1961.</small>
 
 ---
+
+## Deep Generative Modelling and Latent Spaces for Audio
+
+What is a latent space? 
 
 
 
