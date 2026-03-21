@@ -54,14 +54,19 @@ The Conceptualizations in the artistic practices imply the automation and automi
 
 ---
 
-## Organising Sound with Artificial Intelligence
+## Organizing Sound with Artificial Intelligence
 
-![align-center width:550](img/organised-sound.png)
+![align-center width:1200](img/organised-sound.png)
+
+---
+
+### Musical Agents based on Self-Organizing Maps
+
+
 
 ---
 
 Experimentation is an ongoing process in artistic practice, "the outcome of which is not foreseen" [1]
-
 
 <small>[1]  J. Cage, Silence: Lectures and Writings, Wesleyan, 1961.</small>
 ---
