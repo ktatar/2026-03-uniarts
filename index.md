@@ -164,7 +164,78 @@ Emerging themes from the user study with 9 composers:
 
 ---
 
+#### Music Notation and Composition with Latent Spaces
 
+**Meta-Benjolin**
+
+![align-left width:500](img/meta-ben-1.png)
+
+![align-right width:600](img/meta-ben-2.png)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<small>Madaghiele V., Lund L., Holzer D., Kelkar T., Tatar, K., and Holzapfel A. (2026). Expanding the machine: notating generative synthesis with a state-based representation and an interactive timbre space. Organised Sound, Cambridge Press.</small>
+
+---
+
+#### Music Notation and Composition with Latent Spaces
+
+![align-center width:900](img/meta-ben-3.png)
+
+---
+
+#### Music Notation and Composition with Latent Spaces
+
+![align-center width:800](img/meta-ben-4.png)
+
+---
+
+#### Music Notation and Composition with Latent Spaces
+
+![align-center width:1200](img/meta-ben-5.png)
+
+<small>Examples of the use of transitions to navigate long distances. D2 used a meander transition in the middle of the piece to connect two sections; within a section, neighbouring states are connected using crossfades. A5 used a crossfade and a meander transition to navigate between two neighbourhoods in the cloud, each corresponding to a section in their piece. (a) Composition by D2 (detail), Sound_example_4.m4a in the sound material. (b) Composition by A5 (detail), Sound_example_5.m4a in the sound material.
+</small>
+
+---
+
+#### Music Notation and Composition with Latent Spaces
+<small><https://meta-benjolin.com/></small>
+<div
+  style="
+    width: 100%;
+    height: 70vh;
+    max-height: 400px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    overflow: hidden;
+    position: relative;
+  "
+>
+  <iframe
+    src="https://meta-benjolin.com/"
+    title="AI Dungeon"
+    style="
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    "
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade"
+    allowfullscreen
+  ></iframe>
+</div>
+
+<small>Madaghiele V., Lund L., Holzer D., Kelkar T., Tatar, K., and Holzapfel A. (2026). Expanding the machine: notating generative synthesis with a state-based representation and an interactive timbre space. Organised Sound, Cambridge Press.</small>
 
 ---
 
