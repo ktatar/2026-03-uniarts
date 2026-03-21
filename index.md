@@ -36,7 +36,8 @@ What does Artificial Intelligence technology encapsulate?
 - Deep Learning (Artificial Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, Transformers, etc.)
 - Deep Generative Models (Variational Autoencoders, Generative Adversarial Networks, Flow-based Models, etc.)
 - Reinforcement Learning (Q-Learning, Deep Q-Networks, Policy Gradient Methods, etc.)
-  
+- Large Language Models (GPT, DeepSeek etc.)
+- Multimodal Foundation Models
 
 ---
 
