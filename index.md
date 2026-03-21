@@ -230,7 +230,7 @@ Focuses on technical innovations in sound synthesis and modeling using deep lear
 
 ---
 
-#### RawAudio Variational Autoencoder
+#### Coding the Latent
 
 ![align-center width:900](img/smc-poster-3-strategies.jpg)
 
@@ -247,44 +247,6 @@ Focuses on technical innovations in sound synthesis and modeling using deep lear
 ![align-center width:800](img/coding-the-latent-setup.png)
     
 ---
-
-### Deep Learning and Audio
-
-- Latent Timbre Synthesis
-- Coding the Latent Artwork and RawAudio Variational Autoencoder
-- **Neuralacoustics**
-- Music Notation and Composition with Latent Spaces
-
----
-
-#### Neuralacoustics
-
-![align-left width:450](img/neuralacoustics-1.png)
-
-![align-right width:700](img/neuralacoustics-4.png)
-
-<small>Chen, J., Tatar, K., & Zappi, V.. (2024). A Deep Learning Framework for Musical Acoustics Simulations. In Proceedings of the AI Music Creativity Conference. Oxford, London, September 2024. https://aimc2024.pubpub.org/pub/5cl1cvmy/release/1</small>
-
----
-
-#### Neuralacoustics
-
-![align-center width:750](img/neuralacoustics-3.png)
-
----
-
-#### Neuralacoustics
-
-![align-center width:500](img/neuralacoustics-2.png)
-
----
-
-### Deep Learning and Audio
-
-- Latent Timbre Synthesis
-- Coding the Latent Artwork and RawAudio Variational Autoencoder
-- Neuralacoustics
-- **Music Notation and Composition with Latent Spaces**
 
 ---
 
@@ -368,6 +330,39 @@ Focuses on technical innovations in sound synthesis and modeling using deep lear
 </div>
 
 <small>Madaghiele V., Lund L., Holzer D., Kelkar T., Tatar, K., and Holzapfel A. (2026). Expanding the machine: notating generative synthesis with a state-based representation and an interactive timbre space. Organised Sound, Cambridge Press.</small>
+
+---
+
+#### Neuralacoustics
+
+![align-left width:450](img/neuralacoustics-1.png)
+
+![align-right width:700](img/neuralacoustics-4.png)
+
+<small>Chen, J., Tatar, K., & Zappi, V.. (2024). A Deep Learning Framework for Musical Acoustics Simulations. In Proceedings of the AI Music Creativity Conference. Oxford, London, September 2024. https://aimc2024.pubpub.org/pub/5cl1cvmy/release/1</small>
+
+---
+
+#### Neuralacoustics
+
+![align-center width:750](img/neuralacoustics-3.png)
+
+---
+
+#### Neuralacoustics
+
+![align-center width:500](img/neuralacoustics-2.png)
+
+---
+
+### Deep Learning and Audio
+
+- Latent Timbre Synthesis
+- Coding the Latent Artwork and RawAudio Variational Autoencoder
+- Neuralacoustics
+- **Music Notation and Composition with Latent Spaces**
+
+
 
 ---
 
