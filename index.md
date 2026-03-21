@@ -75,13 +75,13 @@ K. Tatar, “Musical agents based on self-organizing maps for audio applications
 
 #### Training in MASOM
 
-![align-right width:800](img/masom-training.pdf)
+![align-right width:800](img/masom-training.png)
 
 ---
 
 #### Co-Performance with MASOM
 
-![align-right width:900](img/masom-live.pdf)
+![align-center width:10000](img/masom-live.jpg)
 
 ---
 
@@ -90,6 +90,8 @@ Experimentation is an ongoing process in artistic practice, "the outcome of whic
 <small>[1]  J. Cage, Silence: Lectures and Writings, Wesleyan, 1961.</small>
 
 ---
+
+
 
 ---
 
