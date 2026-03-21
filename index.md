@@ -18,13 +18,6 @@ https://ktatar.github.io/2026-03-uniarts/ </small>
 
 ## Overview
 
-
-
----
-
-<p style="text-align: left;font-size:48px;color:gray;"> Machine Learning and Artificial Intelligence technologies are nothing but a new level of computational autonomy.
-</p>
-
 ---
 
 What does Artificial Intelligence technology encapsulate?
@@ -46,10 +39,6 @@ What does Artificial Intelligence technology encapsulate?
 
 ---
 
-The Conceptualizations in the artistic practices imply the automation and automization. 
-
----
-
 ## Organizing Sound with Artificial Intelligence
 
 ![align-center width:1200](img/organised-sound.png)
@@ -65,13 +54,6 @@ The Conceptualizations in the artistic practices imply the automation and automi
 #### Musical Agents based on Self-Organizing Maps (MASOM)
 
 K. Tatar, “Musical agents based on self-organizing maps for audio applications,” Thesis, Communication, Art & Technology: School of Interactive Arts and Technology, 2019. Available: http://summit.sfu.ca/item/19665
-
-
----
-
-#### Training in MASOM
-
-![align-right width:800](img/masom-training.png)
 
 ---
 
@@ -118,23 +100,6 @@ Interpolations in the latent space of the VAE
 ![align-left width:550](img/inter_latent_space_scatter.png)
 
 ![align-right width:550](img/full_latent_space_scatter.png)
-
----
-
-#### Latent Timbre Synthesis
-
-Emerging themes from the user study with 9 composers: 
-
-- Iterative sound design in musical composition
-- Musical strategies
-- Musical goals and concepts
-- Familiarity
-- Affordances
-- Sound aesthetics
-- Sound quality
-- User Inteface
-- Tool Deficiencies
-- Continued use
 
 ---
 
@@ -239,7 +204,7 @@ Emerging themes from the user study with 9 composers:
 
 ---
 
-###
+The Conceptualizations in the artistic practices imply the automation and automization. 
 
 ---
 
@@ -327,8 +292,6 @@ Focuses on technical innovations in sound synthesis and modeling using deep lear
     
 ---
 
----
-
 #### Music Notation and Composition with Latent Spaces
 
 **Meta-Benjolin**
@@ -412,18 +375,6 @@ Focuses on technical innovations in sound synthesis and modeling using deep lear
 
 ---
 
-#### Neuralacoustics
-
-![align-left width:450](img/neuralacoustics-1.png)
-
-![align-right width:700](img/neuralacoustics-4.png)
-
-<small>Chen, J., Tatar, K., & Zappi, V.. (2024). A Deep Learning Framework for Musical Acoustics Simulations. In Proceedings of the AI Music Creativity Conference. Oxford, London, September 2024. https://aimc2024.pubpub.org/pub/5cl1cvmy/release/1</small>
-
-
-
----
-
 ## Acknowledgements
 
 | Country  | Funding Body  | Timeline |
@@ -438,8 +389,35 @@ Focuses on technical innovations in sound synthesis and modeling using deep lear
 | Canada |Natural Sciences and Engineering Research Council| 2014- 2019 |
 
 ---
-# Thank you! 
+## Thank you! 
 
 Feel free to reach out -> tatar@chalmers.se
+
+---
+
+## Appendix
+
+---
+
+#### Training in MASOM
+
+![align-right width:800](img/masom-training.png)
+
+---
+
+#### Latent Timbre Synthesis
+
+Emerging themes from the user study with 9 composers: 
+
+- Iterative sound design in musical composition
+- Musical strategies
+- Musical goals and concepts
+- Familiarity
+- Affordances
+- Sound aesthetics
+- Sound quality
+- User Inteface
+- Tool Deficiencies
+- Continued use
 
 ---
