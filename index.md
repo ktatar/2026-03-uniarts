@@ -62,7 +62,7 @@ The Conceptualizations in the artistic practices imply the automation and automi
 
 ### A Conversation with Artificial Intelligence
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VLtilZ2lcIA?si=V0YskC4iYOs0WCme" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -75,6 +75,13 @@ K. Tatar, “Musical agents based on self-organizing maps for audio applications
 
 #### Training in MASOM
 
+![align-right width:800](img/masom-training.png)
+
+---
+
+#### Live Performance with MASOM
+
+![align-right width:900](img/masom-live.png)
 
 ---
 
