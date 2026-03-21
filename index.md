@@ -868,3 +868,8 @@ Apple has never confirmed, nor denied whether they utilised Bennett’s concaten
 # Thank you! 
 
 Feel free to reach out -> tatar@chalmers.se
+
+---
+
+# Appendix
+
