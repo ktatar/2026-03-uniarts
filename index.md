@@ -26,17 +26,23 @@ https://ktatar.github.io/2026-03-docent-lecture/ </small>
 
 ---
 
+
+
+---
+
 <p style="text-align: left;font-size:48px;color:gray;"> Machine Learning and Artificial Intelligence technologies are nothing but a new level of computational autonomy.
 </p>
 
 ---
 
-The Conceptualizations in the Artistic Practice implies the automation and automization. 
+The Conceptualizations in the artistic practice implies the automation and automization. 
 
 ---
 
-Experimentation 
+Experimentation is an ongoing process in artistic practice, "the outcome of which is not foreseen" [1]
 
+
+<small>[1]  J. Cage, Silence: Lectures and Writings, Wesleyan, 1961.</small>
 ---
 
 ## Research Themes
