@@ -7,7 +7,7 @@ paginate: true
 
 <!-- footer: <small><i>Kıvanç Tatar, Associate Professor in Interactive AI</small></i> <p> ![width:350](chalmers-gu.png)</p> -->
 
-# Machine Learning and Artificial Intelligence Applied to Computational Arts, Music, and Games
+# Machine Learning and Artificial Intelligence Applied to Computational Arts and Music 
 
 <small> These slides are live at: 
 https://ktatar.github.io/2026-03-uniarts/ </small>
@@ -325,3 +325,14 @@ Transform them with your wishes ie (expansion, conceptual shifting, cross-modal 
 ## Thank you! 
 
 Feel free to reach out -> tatar@chalmers.se or info@kivanctatar.com
+
+---
+
+Downloading videos for offline backup:
+
+https://github.com/yt-dlp/yt-dlp?tab=readme-ov-file#format-selection-examples
+
+run on command line
+make sure ffmpeg is installed
+
+yt-dlp.exe [links goes here] -f "bv+ba/b" -t mp4
