@@ -37,6 +37,8 @@ What does Artificial Intelligence technology encapsulate?
 
 ## Calculating Empires (Crawford and Joler 2023)
 
+
+
 ---
 
 ## Organizing Sound with Artificial Intelligence
