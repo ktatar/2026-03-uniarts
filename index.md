@@ -37,7 +37,33 @@ What does Artificial Intelligence technology encapsulate?
 
 ## Calculating Empires (Crawford and Joler 2023)
 
-
+<small>https://calculatingempires.net/?pos=64626.91%2C13950.71%2C14.3640</small>
+<div
+  style="
+    width: 100%;
+    height: 70vh;
+    max-height: 400px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    overflow: hidden;
+    position: relative;
+  "
+>
+  <iframe
+    src="https://calculatingempires.net/?pos=64626.91%2C13950.71%2C14.3640"
+    title="Calculating Empires"
+    style="
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    "
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade"
+    allowfullscreen
+  ></iframe>
+</div>
 
 ---
 
@@ -229,7 +255,7 @@ Interpolations in the latent space of the VAE
 >
   <iframe
     src="https://objkt.com/tokens/hicetnunc/726715"
-    title="AI Dungeon"
+    title="Digital Ripples"
     style="
       position: absolute;
       inset: 0;
