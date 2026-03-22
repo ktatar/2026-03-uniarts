@@ -204,10 +204,6 @@ Interpolations in the latent space of the VAE
 
 ---
 
-The Conceptualizations in the artistic practices imply the automation and automization. 
-
----
-
 #### Expert Procrastinator's Tool: Artificial Intelligence (2023)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xdf1uKzGYfs?si=2ffM-WlVKZgfJasB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -265,11 +261,16 @@ The Conceptualizations in the artistic practices imply the automation and automi
 
 ---
 
-Start from the theoretical foundations of your artistic practice
+- Start from the theoretical foundations of your artistic practice
+  - **From theoretical foundations of artistic practice -> Computational or Algorithmic approaches:**
 
-Ideate what would be interesting to automate
+- Ideate what would be interesting to automate
 
-Explore AI/ML approaches that are suitable to that
+- Explore AI/ML approaches that are suitable to that
+
+
+
+---
 
 In parallel, 
 
