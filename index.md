@@ -18,9 +18,21 @@ https://ktatar.github.io/2026-03-uniarts/ </small>
 
 ## Overview
 
+- What does Artificial Intelligence technology encapsulate?
+- Organizing Sound with Artificial Intelligence
+- AudioVisuals
+
 ---
 
-What does Artificial Intelligence technology encapsulate?
+## Overview
+
+- **What does Artificial Intelligence technology encapsulate?**
+- Organizing Sound with Artificial Intelligence
+- AudioVisuals
+
+---
+
+### What does Artificial Intelligence technology encapsulate?
 
 - Good-old fashioned AI (Symbolic AI, Expert Systems, Rule-based Systems, etc.)
 - Evolutionary Algorithms (Genetic Algorithms, Genetic Programming, etc.)
@@ -35,7 +47,7 @@ What does Artificial Intelligence technology encapsulate?
 
 ---
 
-## Calculating Empires (Crawford and Joler 2023)
+#### Calculating Empires (Crawford and Joler 2023)
 
 <small>https://calculatingempires.net/?pos=64626.91%2C13950.71%2C14.3640</small>
 <div
@@ -67,15 +79,50 @@ What does Artificial Intelligence technology encapsulate?
 
 ---
 
+## Overview
+
+- What does Artificial Intelligence technology encapsulate?
+- **Organizing Sound with Artificial Intelligence**
+- AudioVisuals
+
+---
+
+## Organizing Sound with Artificial Intelligence
+
+- A Conversation with Artificial Intelligence
+- Musical Agents based on Self-Organizing Maps (MASOM)
+- Deep Generative Modelling and Latent Spaces for Audio
+- Music Notation and Composition with Latent Spaces
+
+---
+
 ## Organizing Sound with Artificial Intelligence
 
 ![align-center width:1200](img/organised-sound.png)
 
 ---
 
+## Organizing Sound with Artificial Intelligence
+
+- **A Conversation with Artificial Intelligence**
+- Musical Agents based on Self-Organizing Maps (MASOM)
+- Deep Generative Modelling and Latent Spaces for Audio
+- Music Notation and Composition with Latent Spaces
+
+---
+
 ### A Conversation with Artificial Intelligence
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VLtilZ2lcIA?si=BxKv39bkl7GiU9v8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+## Organizing Sound with Artificial Intelligence
+
+- A Conversation with Artificial Intelligence
+- **Musical Agents based on Self-Organizing Maps (MASOM)**
+- Deep Generative Modelling and Latent Spaces for Audio
+- Music Notation and Composition with Latent Spaces
 
 ---
 
@@ -91,7 +138,16 @@ K. Tatar, “Musical agents based on self-organizing maps for audio applications
 
 ---
 
-## Deep Generative Modelling and Latent Spaces for Audio
+## Organizing Sound with Artificial Intelligence
+
+- A Conversation with Artificial Intelligence
+- Musical Agents based on Self-Organizing Maps (MASOM)
+- **Deep Generative Modelling and Latent Spaces for Audio**
+- Music Notation and Composition with Latent Spaces
+
+---
+
+### Deep Generative Modelling and Latent Spaces for Audio
 
 What is a latent space? 
 
@@ -99,7 +155,7 @@ What is a latent space?
 
 ---
 
-### Latent Timbre Synthesis
+#### Latent Timbre Synthesis
 
 ![align-center width:650](https://camo.githubusercontent.com/3fd7f5186b4aab037b57b340eddde353badf52b196389622f70db93117438264/68747470733a2f2f6769746c61622e636f6d2f6b74617461722f6c6174656e742d74696d6272652d73796e7468657369732f2d2f7261772f737461626c652f696d616765732f696e746572706f6c6174655f74776f5f75692e6a7067)
 
@@ -154,6 +210,15 @@ Interpolations in the latent space of the VAE
 #### Coding the Latent
 
 ![align-center width:900](img/coding-the-latent-arc.jpg)
+
+---
+
+## Organizing Sound with Artificial Intelligence
+
+- A Conversation with Artificial Intelligence
+- Musical Agents based on Self-Organizing Maps (MASOM)
+- Deep Generative Modelling and Latent Spaces for Audio
+- **Music Notation and Composition with Latent Spaces**
 
 ---
 
@@ -229,6 +294,16 @@ Interpolations in the latent space of the VAE
 </div>
 
 <small>Madaghiele V., Lund L., Holzer D., Kelkar T., Tatar, K., and Holzapfel A. (2026). Expanding the machine: notating generative synthesis with a state-based representation and an interactive timbre space. Organised Sound, Cambridge Press.</small>
+
+---
+
+## AudioVisuals
+
+- Expert Procrastinator's Tool: Artificial Intelligence (2023)
+- Digital Ripples (2020)
+- Experiments with VQGAN Text-to-Image Synthesis
+- Exposing the Bias in Artificial Intelligence: The Cyber Future
+- Exposing the Bias in Artificial Intelligence: The Machine Lexicon
 
 ---
 
