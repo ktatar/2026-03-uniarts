@@ -297,6 +297,14 @@ Interpolations in the latent space of the VAE
 
 ---
 
+## Overview
+
+- What does Artificial Intelligence technology encapsulate?
+- Organizing Sound with Artificial Intelligence
+- **AudioVisuals**
+
+---
+
 ## AudioVisuals
 
 - Expert Procrastinator's Tool: Artificial Intelligence (2023)
@@ -364,22 +372,30 @@ Interpolations in the latent space of the VAE
 
 ---
 
-- Start from the theoretical foundations of your artistic practice
-  - **From theoretical foundations of artistic practice -> Computational or Algorithmic approaches:**
+## Overview
 
-- Ideate what would be interesting to automate
-
-- Explore AI/ML approaches that are suitable to that
-
-
+- What does Artificial Intelligence technology encapsulate?
+- Organizing Sound with Artificial Intelligence
+- AudioVisuals
 
 ---
 
-In parallel, 
+## Key Takeaways
+
+- Start from the theoretical foundations of your artistic practice
+  - From theoretical foundations of artistic practice -> Computational or Algorithmic approaches:
+    - Ideate what would be interesting to automate
+    - Explore AI/ML approaches that are suitable to that
+
+---
+
+## Key Takeaways
 
 Try new AI/ML tools and techniques that are relevant to your domain and practice continuously
 
-Transform them with your wishes ie (expansion, conceptual shifting, cross-modal approaches, add, subtract etc.)
+Because -> **Artworks are snapshots of long-term artistic careers.**
+
+Transform them with your wishes ie (expansion, conceptual shifting, cross-modal approaches, add, subtract etc.) -> 
 
 ---
 
