@@ -322,8 +322,6 @@ Interpolations in the latent space of the VAE
 
 ---
 
----
-
 #### Digital Ripples (2020)
 
 <div
