@@ -20,7 +20,7 @@ https://ktatar.github.io/2026-03-uniarts/ </small>
 
 - What does Artificial Intelligence technology encapsulate?
 - Organizing Sound with Artificial Intelligence
-- AudioVisuals
+- AudioVisual Artworks
 
 ---
 
@@ -28,7 +28,7 @@ https://ktatar.github.io/2026-03-uniarts/ </small>
 
 - **What does Artificial Intelligence technology encapsulate?**
 - Organizing Sound with Artificial Intelligence
-- AudioVisuals
+- AudioVisual Artworks
 
 ---
 
@@ -84,7 +84,7 @@ https://ktatar.github.io/2026-03-uniarts/ </small>
 
 - What does Artificial Intelligence technology encapsulate?
 - **Organizing Sound with Artificial Intelligence**
-- AudioVisuals
+- AudioVisual Artworks
 
 ---
 
@@ -302,11 +302,11 @@ Interpolations in the latent space of the VAE
 
 - What does Artificial Intelligence technology encapsulate?
 - Organizing Sound with Artificial Intelligence
-- **AudioVisuals**
+- **AudioVisual Artworks**
 
 ---
 
-## AudioVisuals
+## AudioVisual Artworks
 
 - Expert Procrastinator's Tool: Artificial Intelligence (2023)
 - Digital Ripples (2020)
@@ -377,7 +377,7 @@ Interpolations in the latent space of the VAE
 
 - What does Artificial Intelligence technology encapsulate?
 - Organizing Sound with Artificial Intelligence
-- AudioVisuals
+- AudioVisual Artworks
 
 ---
 
