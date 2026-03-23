@@ -202,7 +202,7 @@ Interpolations in the latent space of the VAE
 
 #### Sound Design Strategies for Latent Audio Space Explorations
 
-![align-center width:900](img/smc-poster-3-strategies.jpg)
+![align-center width:850](img/smc-poster-3-strategies.jpg)
 
 <small> K. Tatar, K. Cotton, and D. Bisig, “Sound Design Strategies for Latent Audio Space Explorations Using Deep Learning Architectures,” presented at the Proceedings of Sound and Music Computing 2023, 2023.</small>
 
