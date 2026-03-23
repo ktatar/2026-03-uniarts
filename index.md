@@ -380,7 +380,7 @@ Interpolations in the latent space of the VAE
 
 ---
 
-## Key Takeaways
+## Key Takeaway 1: From theory to Algorithm
 
 - Start from the theoretical foundations of your artistic practice
   - From theoretical foundations of artistic practice -> Computational or Algorithmic approaches:
@@ -389,13 +389,13 @@ Interpolations in the latent space of the VAE
 
 ---
 
-## Key Takeaways
+## Key Takeaways 2: A Continuous Practice of Learning and Experimentation
+
+**Artworks are snapshots of long-term artistic careers.**
 
 Try new AI/ML tools and techniques that are relevant to your domain and practice continuously
 
-Because -> **Artworks are snapshots of long-term artistic careers.**
-
-Transform them with your wishes ie (expansion, conceptual shifting, cross-modal approaches, add, subtract etc.) -> 
+Expand from current ML/AI approaches: ie (expansion, conceptual shifting, cross-modal approaches, add, subtract etc.) -> Fast Idea Generator by Nesta <https://www.nesta.org.uk/toolkit/fast-idea-generator/>
 
 ---
 
@@ -416,14 +416,3 @@ Transform them with your wishes ie (expansion, conceptual shifting, cross-modal 
 ## Thank you! 
 
 Feel free to reach out -> tatar@chalmers.se or info@kivanctatar.com
-
----
-
-Downloading videos for offline backup:
-
-https://github.com/yt-dlp/yt-dlp?tab=readme-ov-file#format-selection-examples
-
-run on command line
-make sure ffmpeg is installed
-
-yt-dlp.exe [links goes here] -f "bv+ba/b" -t mp4
