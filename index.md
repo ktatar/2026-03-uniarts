@@ -7,7 +7,7 @@ paginate: true
 
 <!-- footer: <small><i>Kıvanç Tatar, Associate Professor in Interactive AI</small></i> <p> ![width:350](chalmers-gu.png)</p> -->
 
-# Machine Learning and Artificial Intelligence Applied to Computational Arts and Music 
+# Computational Arts and Music informed Machine Learning and Artificial Intelligence
 
 <small> These slides are live at: 
 https://ktatar.github.io/2026-03-uniarts/ </small>
