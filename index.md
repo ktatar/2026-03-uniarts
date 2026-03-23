@@ -49,12 +49,11 @@ https://ktatar.github.io/2026-03-uniarts/ </small>
 
 #### Calculating Empires (Crawford and Joler 2023)
 
-<small>https://calculatingempires.net/?pos=64626.91%2C13950.71%2C14.3640</small>
 <div
   style="
     width: 100%;
     height: 70vh;
-    max-height: 400px;
+    max-height: 445px;
     border: 1px solid #ddd;
     border-radius: 12px;
     overflow: hidden;
@@ -76,6 +75,8 @@ https://ktatar.github.io/2026-03-uniarts/ </small>
     allowfullscreen
   ></iframe>
 </div>
+
+<small>https://calculatingempires.net/?pos=64626.91%2C13950.71%2C14.3640</small>
 
 ---
 
