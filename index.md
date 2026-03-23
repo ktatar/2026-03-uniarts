@@ -357,7 +357,7 @@ Interpolations in the latent space of the VAE
 
 #### Experiments with VQGAN Text-to-Image Synthesis
 
-<video controls src="best-to-worst.mp4" width="450"></video>
+<video controls src="best-to-worst.webm" width="450"></video>
 
 ---
 
